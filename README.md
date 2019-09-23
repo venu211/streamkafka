@@ -12,3 +12,4 @@ tskill PID
 bin/kafka-server-start.sh config/server.properties
 
 Ref: https://dzone.com/articles/spring-cloud-stream-with-kafka
+__
